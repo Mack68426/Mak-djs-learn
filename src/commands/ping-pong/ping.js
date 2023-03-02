@@ -11,7 +11,6 @@ const action = async (inters) => {
     inters.reply("pong!") 
 }
 
-
 export {
     command,
     action
